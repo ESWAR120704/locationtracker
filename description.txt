@@ -1,0 +1,2 @@
+Mobile Number Location Tracker
+Developed a Python-based mobile number tracking application that retrieves the geographical location and service provider details of a given phone number. Integrated OpenCage Geocode API and Folium to visualize the location on an interactive map. Automated the extraction and mapping process, generating an HTML-based map display. Utilized the phonenumbers library for number parsing and validation.
